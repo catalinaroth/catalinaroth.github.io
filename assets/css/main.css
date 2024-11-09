@@ -7,27 +7,6 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* Container for icons in the upper-right corner */
-.icons-container {
-    position: fixed;      /* Fixes the position in the viewport */
-    top: 10px;            /* Adjusts vertical position */
-    right: 10px;          /* Adjusts horizontal position */
-    display: flex;
-    gap: 10px;            /* Adds space between icons */
-    z-index: 10;          /* Keeps icons above other elements */
-}
-
-/* Styling for icons to ensure uniform display */
-.icons li {
-    list-style: none;
-}
-
-.icons a {
-    text-decoration: none;
-    font-size: 1.5em;     /* Adjust icon size as needed */
-}
-
-
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
